@@ -1,0 +1,3 @@
+/Users/azharkimanje/CLionProjects/Githubtestor/cmake-build-debug/CMakeFiles/Githubtestor.dir
+/Users/azharkimanje/CLionProjects/Githubtestor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/azharkimanje/CLionProjects/Githubtestor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
